@@ -76,6 +76,3 @@ $ code .
 - Daisy UI
 - Mongo DB
 
-## Software Developer
-
-- **Kartik Pavan**
